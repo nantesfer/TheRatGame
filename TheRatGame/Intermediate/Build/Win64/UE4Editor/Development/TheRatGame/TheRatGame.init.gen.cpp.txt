@@ -1,0 +1,3 @@
+D:\Pam\Projects\TheRatGame\TheRatGame\Intermediate\Build\Win64\UE4Editor\Development\TheRatGame\Definitions.TheRatGame.h
+D:\Pam\Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Pam\Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TheRatGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AA6230AA-6216-4F6F-8C9B-E391BFD7B7EA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheRatGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheRatGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7D486D19-FDA1-4A77-B5FE-157C6B08ECB8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TheRatGame">
+      <UniqueIdentifier>{256EFA67-3D4F-4751-8B13-E983EFD0DFC9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheRatGame\TheRatGame.Build.cs">
+      <Filter>Source\TheRatGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheRatGame\TheRatGame.cpp">
+      <Filter>Source\TheRatGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheRatGame\TheRatGame.h">
+      <Filter>Source\TheRatGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheRatGame\TheRatGameCharacter.cpp">
+      <Filter>Source\TheRatGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheRatGame\TheRatGameCharacter.h">
+      <Filter>Source\TheRatGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheRatGame\TheRatGameGameMode.cpp">
+      <Filter>Source\TheRatGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheRatGame\TheRatGameGameMode.h">
+      <Filter>Source\TheRatGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

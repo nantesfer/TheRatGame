@@ -1,0 +1,2 @@
+D:\Pam\Projects\TheRatGame\TheRatGame\Intermediate\Build\Win64\UE4Editor\Development\TheRatGame\Definitions.TheRatGame.h
+D:\Pam\Projects\TheRatGame\TheRatGame\Source\TheRatGame\TheRatGame.h
