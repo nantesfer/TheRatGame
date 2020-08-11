@@ -1,9 +1,0 @@
-D:\Pam\Projects\TheRatGame\TheRatGame\Intermediate\Build\Win64\UE4Editor\Development\TheRatGame\Definitions.TheRatGame.h
-D:\Pam\Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Pam\Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Pam\Projects\TheRatGame\TheRatGame\Source\TheRatGame/TheRatGameGameMode.h
-D:\Pam\Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\Pam\Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\Pam\Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\Pam\Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\Pam\Projects\TheRatGame\TheRatGame\Intermediate\Build\Win64\UE4Editor\Inc\TheRatGame\TheRatGameGameMode.generated.h
