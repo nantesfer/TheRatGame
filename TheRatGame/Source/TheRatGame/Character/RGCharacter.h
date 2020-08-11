@@ -23,9 +23,21 @@ public:
 	// Sets default values for this character's properties
 	ARGCharacter();
 
+	/** Base turn rate, in deg/sec. Other scaling may affect final turn rate. */
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera)
+		float BaseTurnRate;
+
+	/** Base look up/down rate, in deg/sec. Other scaling may affect final rate. */
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera)
+		float BaseLookUpRate;
+
 protected:
-	// Called when the game starts or when spawned
+
 	virtual void BeginPlay() override;
+	void MoveForward(float Value);	
+	void MoveRight(float Value);
+	void TurnAtRate(float Rate);
+	void LookUpAtRate(float Rate);
 
 public:
 	// Called every frame
