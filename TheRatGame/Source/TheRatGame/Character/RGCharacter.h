@@ -6,7 +6,7 @@
 #include "GameFramework/Character.h"
 #include "RGCharacter.generated.h"
 
-UCLASS()
+UCLASS(config=Game)
 class THERATGAME_API ARGCharacter : public ACharacter
 {
 	GENERATED_BODY()
